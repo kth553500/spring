@@ -7,7 +7,7 @@ import org.springframework.core.io.Resource;
 
 //스프링 방식=>객체를 생성 ->메서드 호출->처리방식을 xml파일로 설정(명세서)
 public class HelloApp {
-
+  
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//1. xml 파일의 위치를 불러오는 방법 -> 상대경로
